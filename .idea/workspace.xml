@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="converted traditional switch statement to enhanced switch statement">
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="Converted primitive switch statement to determine quarters of the year to enhanced switch statement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -67,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675557127860</updated>
       <workItem from="1675557130653" duration="1151000" />
-      <workItem from="1675600948808" duration="3886000" />
+      <workItem from="1675600948808" duration="5278000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -83,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675629266090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Used primitive switch statement to determine quarters of the year">
+      <created>1675630473549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675630473549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Converted primitive switch statement to determine quarters of the year to enhanced switch statement">
+      <created>1675630556431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675630556431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +106,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Switch statements intro" />
     <MESSAGE value="converted traditional switch statement to enhanced switch statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="converted traditional switch statement to enhanced switch statement" />
+    <MESSAGE value="Used primitive switch statement to determine quarters of the year" />
+    <MESSAGE value="Converted primitive switch statement to determine quarters of the year to enhanced switch statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converted primitive switch statement to determine quarters of the year to enhanced switch statement" />
   </component>
 </project>

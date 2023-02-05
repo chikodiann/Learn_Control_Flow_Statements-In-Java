@@ -31,7 +31,15 @@ public class Main {
             case "APRIL", "MAY", "JUNE" -> "2nd";
             case "JULY", "AUGUST", "SEPTEMBER" -> "3rd";
             case "OCTOBER", "NOVEMBER", "DECEMBER" -> "4th";
-            default -> "bad";
+            default -> {
+                String badResponse = month + " is bad";
+                yield badResponse;
+            }
         };
+        /*      When to use yield in a switch
+                When your switch statement is being used as a switch expression
+                returning a value.
+                Your case label uses a code block, with opening and closing curly braces.
+          */
     }
 }
