@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="Modified return to the yield keyword">
-      <change afterPath="$PROJECT_DIR$/src/SwitchNatoChallenge.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="used traditional switch statements to iterate through chars">
+      <change afterPath="$PROJECT_DIR$/src/DayOfTheWeekChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwitchNatoChallenge">
+  <component name="RunManager" selected="Application.DayOfTheWeekChallenge">
+    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
+      <module name="Learn_Control_Flow_Statements-In-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
@@ -61,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayOfTheWeekChallenge" />
         <item itemvalue="Application.SwitchNatoChallenge" />
         <item itemvalue="Application.Main" />
       </list>
@@ -75,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675557127860</updated>
       <workItem from="1675557130653" duration="1151000" />
-      <workItem from="1675600948808" duration="7202000" />
+      <workItem from="1675600948808" duration="10143000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -112,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675632566188</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="used traditional switch statements to iterate through chars">
+      <created>1675634223213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675634223213</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +139,7 @@
     <MESSAGE value="Used primitive switch statement to determine quarters of the year" />
     <MESSAGE value="Converted primitive switch statement to determine quarters of the year to enhanced switch statement" />
     <MESSAGE value="Modified return to the yield keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified return to the yield keyword" />
+    <MESSAGE value="used traditional switch statements to iterate through chars" />
+    <option name="LAST_COMMIT_MESSAGE" value="used traditional switch statements to iterate through chars" />
   </component>
 </project>
