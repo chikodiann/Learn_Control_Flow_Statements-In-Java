@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="used traditional switch statements to iterate through chars">
-      <change afterPath="$PROJECT_DIR$/src/DayOfTheWeekChallenge.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="wrote a code to print days of week using both enhanced switch method and if statements">
+      <change afterPath="$PROJECT_DIR$/src/NumberInWordChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/NumberInWordChallenge.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayOfTheWeekChallenge">
+  <component name="RunManager" selected="Application.NumberInWordChallenge">
     <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
@@ -59,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberInWordChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberInWordChallenge" />
+      <module name="Learn_Control_Flow_Statements-In-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwitchNatoChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwitchNatoChallenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
@@ -68,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberInWordChallenge" />
         <item itemvalue="Application.DayOfTheWeekChallenge" />
         <item itemvalue="Application.SwitchNatoChallenge" />
         <item itemvalue="Application.Main" />
@@ -83,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675557127860</updated>
       <workItem from="1675557130653" duration="1151000" />
-      <workItem from="1675600948808" duration="10143000" />
+      <workItem from="1675600948808" duration="15243000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -127,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675634223213</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="wrote a code to print days of week using both enhanced switch method and if statements">
+      <created>1675639458749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675639458749</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +158,7 @@
     <MESSAGE value="Converted primitive switch statement to determine quarters of the year to enhanced switch statement" />
     <MESSAGE value="Modified return to the yield keyword" />
     <MESSAGE value="used traditional switch statements to iterate through chars" />
-    <option name="LAST_COMMIT_MESSAGE" value="used traditional switch statements to iterate through chars" />
+    <MESSAGE value="wrote a code to print days of week using both enhanced switch method and if statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote a code to print days of week using both enhanced switch method and if statements" />
   </component>
 </project>
