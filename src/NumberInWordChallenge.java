@@ -26,4 +26,6 @@ public class NumberInWordChallenge {
         };
         System.out.println(number);
     }
+    //this code is not returning "other" when
+    // I attempt to print a negative number or number not listed in the switch case.
 }
