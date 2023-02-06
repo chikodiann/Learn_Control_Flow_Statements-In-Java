@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="wrote a code to print days of week using both enhanced switch method and if statements">
-      <change afterPath="$PROJECT_DIR$/src/NumberInWordChallenge.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="wrote a code to print number in word using enhanced switch method">
+      <change afterPath="$PROJECT_DIR$/src/TheForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberInWordChallenge">
+  <component name="RunManager" selected="Application.TheForLoop">
     <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
@@ -76,8 +76,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheForLoop" />
+      <module name="Learn_Control_Flow_Statements-In-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheForLoop" />
         <item itemvalue="Application.NumberInWordChallenge" />
         <item itemvalue="Application.DayOfTheWeekChallenge" />
         <item itemvalue="Application.SwitchNatoChallenge" />
@@ -94,7 +102,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675557127860</updated>
       <workItem from="1675557130653" duration="1151000" />
-      <workItem from="1675600948808" duration="15243000" />
+      <workItem from="1675600948808" duration="16234000" />
+      <workItem from="1675678491330" duration="1611000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -145,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675639458749</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="wrote a code to print days of week using both enhanced switch method and if statements">
+      <created>1675672646073</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672646073</updated>
+    </task>
+    <task id="LOCAL-00009" summary="wrote a code to print number in word using enhanced switch method">
+      <created>1675672955634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672955634</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +182,7 @@
     <MESSAGE value="Modified return to the yield keyword" />
     <MESSAGE value="used traditional switch statements to iterate through chars" />
     <MESSAGE value="wrote a code to print days of week using both enhanced switch method and if statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote a code to print days of week using both enhanced switch method and if statements" />
+    <MESSAGE value="wrote a code to print number in word using enhanced switch method" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote a code to print number in word using enhanced switch method" />
   </component>
 </project>
