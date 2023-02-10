@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="for loop statement">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumberChallenge.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="built a prime number counter">
+      <change afterPath="$PROJECT_DIR$/src/Sum3and5Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumberChallenge">
+  <component name="RunManager" selected="Application.Sum3and5Challenge">
     <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchNatoChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchNatoChallenge" />
+    <configuration name="Sum3and5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum3and5Challenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum3and5Challenge" />
         <item itemvalue="Application.PrimeNumberChallenge" />
         <item itemvalue="Application.TheForLoop" />
         <item itemvalue="Application.NumberInWordChallenge" />
         <item itemvalue="Application.DayOfTheWeekChallenge" />
-        <item itemvalue="Application.SwitchNatoChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,7 @@
       <workItem from="1675557130653" duration="1151000" />
       <workItem from="1675600948808" duration="16234000" />
       <workItem from="1675678491330" duration="3000000" />
-      <workItem from="1675992130648" duration="1228000" />
+      <workItem from="1675992130648" duration="4141000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675680187406</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="built a prime number counter">
+      <created>1675993513039</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675993513040</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +199,15 @@
     <MESSAGE value="wrote a code to print days of week using both enhanced switch method and if statements" />
     <MESSAGE value="wrote a code to print number in word using enhanced switch method" />
     <MESSAGE value="for loop statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop statement" />
+    <MESSAGE value="built a prime number counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="built a prime number counter" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="loopNumber % 3" language="JAVA" />
+        <watch expression="loopNumber % 5" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
