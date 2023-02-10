@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="built a prime number counter">
-      <change afterPath="$PROJECT_DIR$/src/Sum3and5Challenge.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="looped through numbers that are divisible by both 3 and 5">
+      <change afterPath="$PROJECT_DIR$/src/EvenNumberWhileLoopChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +47,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sum3and5Challenge">
-    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
+  <component name="RunManager" selected="Application.EvenNumberWhileLoopChallenge">
+    <configuration name="EvenNumberWhileLoopChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenNumberWhileLoopChallenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenNumberWhileLoopChallenge" />
         <item itemvalue="Application.Sum3and5Challenge" />
         <item itemvalue="Application.PrimeNumberChallenge" />
         <item itemvalue="Application.TheForLoop" />
         <item itemvalue="Application.NumberInWordChallenge" />
-        <item itemvalue="Application.DayOfTheWeekChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,8 @@
       <workItem from="1675557130653" duration="1151000" />
       <workItem from="1675600948808" duration="16234000" />
       <workItem from="1675678491330" duration="3000000" />
-      <workItem from="1675992130648" duration="4141000" />
+      <workItem from="1675992130648" duration="4488000" />
+      <workItem from="1676044129751" duration="1636000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675993513040</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="looped through numbers that are divisible by both 3 and 5">
+      <created>1675996376147</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675996376147</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +208,8 @@
     <MESSAGE value="wrote a code to print number in word using enhanced switch method" />
     <MESSAGE value="for loop statement" />
     <MESSAGE value="built a prime number counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="built a prime number counter" />
+    <MESSAGE value="looped through numbers that are divisible by both 3 and 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="looped through numbers that are divisible by both 3 and 5" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
