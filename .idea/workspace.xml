@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="performing numerical operation on strings, by parsing string to int">
-      <change afterPath="$PROJECT_DIR$/src/PracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadingDataFromConsole.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="made new changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadingDataFromConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadingDataFromConsole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <workItem from="1675600948808" duration="16234000" />
       <workItem from="1675678491330" duration="3000000" />
       <workItem from="1675992130648" duration="4488000" />
-      <workItem from="1676044129751" duration="7678000" />
+      <workItem from="1676044129751" duration="9427000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -214,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676059379422</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="made new changes">
+      <created>1676168073172</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676168073173</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +242,8 @@
     <MESSAGE value="looped through numbers and used a method to determine if they are even numbers" />
     <MESSAGE value="looped through numbers and used a method to sum digits of a positive number" />
     <MESSAGE value="performing numerical operation on strings, by parsing string to int" />
-    <option name="LAST_COMMIT_MESSAGE" value="performing numerical operation on strings, by parsing string to int" />
+    <MESSAGE value="made new changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="made new changes" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

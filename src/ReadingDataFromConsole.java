@@ -1,5 +1,7 @@
+import java.io.IOException;
+
 public class ReadingDataFromConsole {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         int currentYear = 2023;
 
         System.out.println(getInputFromConsole(currentYear));

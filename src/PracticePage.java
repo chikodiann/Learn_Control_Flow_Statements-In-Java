@@ -1,5 +1,7 @@
+import java.io.IOException;
+
 public class PracticePage {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         double x, y, z;
         x = 3;
         y = 4;
@@ -36,5 +38,28 @@ public class PracticePage {
         b =10;
         int c = a ^ b;
         System.out.println(c);;
+
+        System.out.println("**************************************************************************");
+
+        System.out.println("Press a key followed by ENTER: ");
+        char ch = (char)System.in.read();
+        System.out.println("Your key is " + ch);
+
+        System.out.println("***************************************************************************");
+
+        //multi loop example
+        int i, j;
+        for (i = 0, j = 10; i < j; i++, j--){
+            System.out.println(" i and j = " + i + " " + j);
+        }
+
+        System.out.println("***************************************************************************");
+
+        int press;
+        System.out.println("Press 'S' to stop. ");
+        for (press = 0; (char)System.in.read() != 'S'; press++){
+            System.out.println("pass " + press);
+        }
+
     }
 }
