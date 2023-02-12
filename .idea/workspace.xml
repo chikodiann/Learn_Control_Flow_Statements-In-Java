@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="looped through numbers and used a method to sum digits of a positive number">
-      <change afterPath="$PROJECT_DIR$/src/ParsingValues.java" afterDir="false" />
+    <list default="true" id="a243d23a-78b8-4a23-a630-298f7bdf8c9e" name="Changes" comment="performing numerical operation on strings, by parsing string to int">
+      <change afterPath="$PROJECT_DIR$/src/PracticePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadingDataFromConsole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,19 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.ParsingValues">
+}]]></component>
+  <component name="RunManager" selected="Application.PracticePage">
     <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DigitSumChallenge" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
@@ -69,15 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumberChallenge" />
+    <configuration name="PracticePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticePage" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3and5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum3and5Challenge" />
+    <configuration name="ReadingDataFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadingDataFromConsole" />
       <module name="Learn_Control_Flow_Statements-In-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticePage" />
+        <item itemvalue="Application.ReadingDataFromConsole" />
         <item itemvalue="Application.ParsingValues" />
         <item itemvalue="Application.DigitSumChallenge" />
         <item itemvalue="Application.EvenNumberWhileLoopChallenge" />
-        <item itemvalue="Application.Sum3and5Challenge" />
-        <item itemvalue="Application.PrimeNumberChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +107,7 @@
       <workItem from="1675600948808" duration="16234000" />
       <workItem from="1675678491330" duration="3000000" />
       <workItem from="1675992130648" duration="4488000" />
-      <workItem from="1676044129751" duration="3175000" />
+      <workItem from="1676044129751" duration="7678000" />
     </task>
     <task id="LOCAL-00001" summary="Switch statements intro">
       <created>1675621557159</created>
@@ -205,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676056572593</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="performing numerical operation on strings, by parsing string to int">
+      <created>1676059379421</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676059379422</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +234,8 @@
     <MESSAGE value="looped through numbers that are divisible by both 3 and 5" />
     <MESSAGE value="looped through numbers and used a method to determine if they are even numbers" />
     <MESSAGE value="looped through numbers and used a method to sum digits of a positive number" />
-    <option name="LAST_COMMIT_MESSAGE" value="looped through numbers and used a method to sum digits of a positive number" />
+    <MESSAGE value="performing numerical operation on strings, by parsing string to int" />
+    <option name="LAST_COMMIT_MESSAGE" value="performing numerical operation on strings, by parsing string to int" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
